@@ -1,3 +1,4 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
 html,
 body {
   padding: 0;
@@ -15,3 +16,6 @@ a {
   box-sizing: border-box;
 }
 
+.hero{
+  background-image: url("/my-app/public/img/img-default.webp");
+}
